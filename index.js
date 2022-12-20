@@ -1,6 +1,6 @@
 const request = require('request');
-const apiKey = "V597LNnPnnbcoSWnqfoSywTdwYLLaxen";
-const link = "https://www.instagram.com/vinhkicks/";
+const apiKey = "";
+const link = "";
 const quantity = 1000;
 
 request.post({
